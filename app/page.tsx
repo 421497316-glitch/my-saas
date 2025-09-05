@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
     <main className="min-h-screen p-8 flex flex-col items-center gap-6">
-      <h1 className="text-3xl font-bold">Hello, my first app!</h1>
+      <h1 className="text-3xl font-bold">Hello, GitHub!!</h1>
 
       {/* 输入 + 按钮：典型的受控组件模式 */}
       <div className="flex gap-2 items-center">
